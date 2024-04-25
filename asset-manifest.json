@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cinema-recomendation-frontend/static/css/main.923ceca0.css",
-    "main.js": "/cinema-recomendation-frontend/static/js/main.b8dbdac4.js",
+    "main.css": "/cinema-recomendation-frontend/static/css/main.d5e6785a.css",
+    "main.js": "/cinema-recomendation-frontend/static/js/main.e8435627.js",
     "index.html": "/cinema-recomendation-frontend/index.html",
-    "main.923ceca0.css.map": "/cinema-recomendation-frontend/static/css/main.923ceca0.css.map",
-    "main.b8dbdac4.js.map": "/cinema-recomendation-frontend/static/js/main.b8dbdac4.js.map"
+    "main.d5e6785a.css.map": "/cinema-recomendation-frontend/static/css/main.d5e6785a.css.map",
+    "main.e8435627.js.map": "/cinema-recomendation-frontend/static/js/main.e8435627.js.map"
   },
   "entrypoints": [
-    "static/css/main.923ceca0.css",
-    "static/js/main.b8dbdac4.js"
+    "static/css/main.d5e6785a.css",
+    "static/js/main.e8435627.js"
   ]
 }
